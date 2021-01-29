@@ -14,7 +14,7 @@
 - Machine vision
 - Image generation / GAN
 - Unity / Unreal Engine / Game Design
-- + More!
+- (+) More!
 
 ---
 
