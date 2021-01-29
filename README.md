@@ -10,7 +10,7 @@
 
 ---
 
-### Interests/Things I Want To Learn About:
+### Interests / Things I Want To Learn About:
 - Machine vision
 - Image generation / GAN
 - Unity / Unreal Engine / Game Design
