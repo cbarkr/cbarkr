@@ -1,4 +1,4 @@
-## Hello 
+## Hello!
 
 ### Languages:
 
@@ -6,9 +6,7 @@
 
 ### Learning:
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact)](https://github.com/cbarkr/github-readme-stats)
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 
 ---
 
@@ -18,5 +16,9 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/cbarkr%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/cbarkr/)
 
 ---
+
+### Stats:
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact)](https://github.com/cbarkr/github-readme-stats)
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkr&count_private=true&show_icons=true&theme=radical)
