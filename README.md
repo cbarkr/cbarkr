@@ -12,7 +12,7 @@ Learning:
 
 Links:
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Instagram" src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> <img alt="Instagram" src="https://img.shields.io/badge/cbarkr%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkr&count_private=true&show_icons=true&theme=radical)
