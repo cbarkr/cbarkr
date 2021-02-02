@@ -14,6 +14,7 @@
 - Machine vision
 - Image generation / GAN
 - Unity / Unreal Engine / Game design
+- Blockchain
 - (+) More!
 
 ---
