@@ -32,6 +32,6 @@ I am currently studying Computing Science at Simon Fraser University and am seek
 
 ### Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact)](https://github.com/cbarkr/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact&?exclude_repo=Get-Me-Out-Of-Here)](https://github.com/cbarkr/github-readme-stats)
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkr&count_private=true&show_icons=true&theme=radical)
