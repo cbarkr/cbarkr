@@ -1,4 +1,5 @@
 ## Hello!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23864879&lines=username%3A+cbarkr+;name%3A+callum_barker;Hi+there!;I+am+a+3rd+year+CS+student;Always+learning;Always+open+to+new+opportunities)](https://git.io/typing-svg)
 
 ### About:
 I am currently studying Computing Science at Simon Fraser University. 
@@ -39,3 +40,7 @@ I am currently studying Computing Science at Simon Fraser University.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact&exclude_repo=Get-Me-Out-Of-Here)](https://github.com/cbarkr/github-readme-stats)
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkr&count_private=true&show_icons=true&theme=radical)
+
+Credits:
+- Icons: https://github.com/Ileriayo/markdown-badges 
+- Typing SVG: https://github.com/DenverCoder1/DenverCoder1
