@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&color=%23864879&size=25&vCenter=true&width=450&lines=username%3A+cbarkr+;name%3A+callum_barker;Hi+there!;I+am+a+3rd+year+CS+student;Currently+working+as+a+fullstack+dev+@+BCCRC;Always+learning;Always+open+to+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&color=%23864879&size=25&vCenter=true&width=450&lines=username%3A+cbarkr+;name%3A+callum_barker;Hi+there!;I+am+a+3rd+year+CS+student;Always+learning;Always+open+to+new+opportunities)](https://git.io/typing-svg)
 
 ### Tech/Tools:
 
