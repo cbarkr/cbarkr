@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&color=%23864879&size=25&vCenter=true&width=450&lines=username%3A+cbarkr+;name%3A+callum_barker;Hi+there!;I+am+a+3rd+year+CS+student;Always+learning;Always+open+to+new+opportunities)](https://git.io/typing-svg)
 
-### 👨‍💻 Tech/Tools:
+## 👨‍💻 Tech/Tools:
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000000)](https://www.javascript.com/)
 [![NodeJS](https://img.shields.io/badge/--2343853D?logo=node.js&logoColor=000000)](https://nodejs.org)
 [![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -25,15 +25,12 @@
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
 
----
-
-### 🔗 Links:
+## 🔗 Links:
 [![LinkedIn](https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cbarkr/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet)](https://www.cbarkr.com/)
 
----
 
-### 📉📈 Stats:
+## 📉📈 Stats:
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkr&count_private=true&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact&theme=radical&exclude_repo=Get-Me-Out-Of-Here)](https://github.com/cbarkr/github-readme-stats)
