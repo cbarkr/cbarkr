@@ -1,34 +1,39 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&color=%23864879&size=25&vCenter=true&width=450&lines=username%3A+cbarkr+;name%3A+callum_barker;Hi+there!;I+am+a+3rd+year+CS+student;Always+learning;Always+open+to+new+opportunities)](https://git.io/typing-svg)
 
 ### 👨‍💻 Tech/Tools:
+[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000000)](https://www.javascript.com/)
+[![NodeJS](https://img.shields.io/badge/--2343853D?logo=node.js&logoColor=000000)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=ffffff)](https://www.python.org/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=ffffff)](https://sass-lang.com/)
+![CSS3](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=ffffff)
 
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+[![.React](https://img.shields.io/badge/--61DAFB?logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
+[![Vue.js](https://img.shields.io/badge/--4FC08D?logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
+[![FastAPI](https://img.shields.io/badge/--009688?logo=fastapi&logoColor=ffffff)](https://fastapi.tiangolo.com/)
+[![Bootstrap](https://img.shields.io/badge/--7952B3?logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
 
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+[![Docker](https://img.shields.io/badge/--2496ED?logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 #### 🤔 Learning:
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 
 #### ✍️ Design:
-
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+[![Photoshop](https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000)](https://www.photoshop.com/)
 
 ---
 
 ### 🔗 Links:
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/cbarkr/)
-[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-blueviolet"/>](https://www.cbarkr.com/)
+[![LinkedIn](https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cbarkr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet)](https://www.cbarkr.com/)
 
 ---
 
 ### 📉📈 Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact&exclude_repo=Get-Me-Out-Of-Here)](https://github.com/cbarkr/github-readme-stats)
-
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbarkr&count_private=true&show_icons=true&theme=radical)
-
-Credits:
-- Icons: https://github.com/Ileriayo/markdown-badges 
-- Typing SVG: https://github.com/DenverCoder1/DenverCoder1
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbarkr&layout=compact&theme=radical&exclude_repo=Get-Me-Out-Of-Here)](https://github.com/cbarkr/github-readme-stats)
