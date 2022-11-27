@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono&color=%23864879&size=25&vCenter=true&width=450&lines=username%3A+cbarkr+;name%3A+callum_barker;Hi+there!;I+am+a+3rd+year+CS+student;Always+learning;Always+open+to+new+opportunities)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/--0A66C2?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cbarkr/)
+[![Protonmail](https://img.shields.io/badge/--8B89CC?&logo=protonmail&logoColor=ffffff)](mailto:cbarkr@protonmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet)](https://www.cbarkr.com/)
 
 ## 👨‍💻 Tech/Tools:
