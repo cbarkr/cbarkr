@@ -5,6 +5,7 @@
 - Learning how to read (check out my [goodreads](https://www.goodreads.com/cbarkr)!)
 - Rebuilding my portfolio (Vue this time around)
 - Indulging in some new hobbies :D
+- Rewatching Steins;Gate
 
 ## 👨‍💻 Tech/Tools
 
