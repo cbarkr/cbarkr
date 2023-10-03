@@ -5,8 +5,8 @@
 - Learning how to read (check out my [goodreads](https://www.goodreads.com/cbarkr)!)
 - Working part-time as a full stack dev and studying part-time
 - Indulging in some new hobbies :D
-- Starting a new project
-- Rewatching Steins;Gate
+- Working on a super cool top secret project (I will probably forget about it by next month)
+- Rewatching Serial Experiments Lain
 
 ## 👨‍💻 Tech/Tools
 
