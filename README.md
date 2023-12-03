@@ -3,10 +3,8 @@
 ## 🤔 Currently
 
 - Learning how to read (check out my [goodreads](https://www.goodreads.com/cbarkr)!)
-- Working part-time as a full stack dev and studying part-time
-- Indulging in some new hobbies :D
-- Working on a super cool top secret project (I will probably forget about it by next month)
-- Rewatching Serial Experiments Lain
+- Indulging in hobbies :D
+- Studying; developing; tinkering
 
 ## 👨‍💻 Tech/Tools
 
