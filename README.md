@@ -1,7 +1,7 @@
-[linkedin](linkedin.com/in/cbarkr)
+[linkedin](https://www.linkedin.com/in/cbarkr)
 |
-[portfolio](cbarkr.com)
+[portfolio](https://www.cbarkr.com)
 |
-[goodreads](goodreads.com/cbarkr)
+[goodreads](https://www.goodreads.com/cbarkr)
 |
-[email](cbarkr@protonmail.com)
+[email](mailto:cbarkr@protonmail.com)
